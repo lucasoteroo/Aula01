@@ -15,7 +15,8 @@ while anos >=0:
       anoslist.append(anos)
       
     else:
-      print("você digitou um número negativo, consequentemente ativou o método de calcular a média, Com isso: ")
+      print("você digitou um número negativo,"
+      "consequentemente ativou o método de calcular a média, Com isso: ")
 
 media=soma/cont
 
